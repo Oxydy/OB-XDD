@@ -27,3 +27,5 @@ This repository and the source code is under GPL3 license.
 Files from Source > Images folder in this commit have Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0) license.
 
 Other images and applicable resources have all rights reserved and copyrighted to discoDSP (no copying, modifying, merging, selling, leasing, redistributing, assigning, or transferring, remove, alter, deface, overprint or otherwise obscure licensor patent, trademark, service mark or copyright, publish or distribute in any form of electronic or printed communication those materials without permission).
+
+This is just a backup copy of the original source files
